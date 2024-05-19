@@ -5,6 +5,7 @@
 
 ## Overview of Craniosynostosis_WGS analysis
 
+![CRS_figure_240502_01 Variant_pipeline](https://github.com/goldpm1/craniosynostosis/assets/62455201/9d0ce648-053d-4bff-a805-53cfa9620f62)
 
 ## Text files
 ### 01.denovo_shortvariant
