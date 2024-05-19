@@ -1,10 +1,3 @@
-# craniosynostosis
-
-## script file
-- noncoding
-- octopus
-
-
 # Craniosynostosis_WGS
 - Whole-genome sequencing of 36 trios and 7 unrelated individuals of Craniosynostosis cohort (2024)
 - Germline variant analysis
@@ -13,7 +6,7 @@
 ## Overview of Craniosynostosis_WGS analysis
 
 
-## Installation
+## Text files
 ### 01.denovo_shortvariant
 - Octopus + Strelka + GATK haplotype caller
 - De novo calls for 36 trios
